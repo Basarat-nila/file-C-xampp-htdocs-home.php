@@ -23,4 +23,5 @@
        <h3>https://projectworlds.com/courier-management-system-in-php-mysql/<h3/>
        <p>website link<p/>
 </body>
-      <html/>
+      </html>
+
